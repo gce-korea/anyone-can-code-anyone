@@ -1,7 +1,15 @@
 # 목차
 
 ## 1. Python 기초
-
+- 파이썬 설치 및 실행
+- 프로그래밍이란? : 컴퓨터와 데이터를 주고받으면서 명령을 내리는 일
+- print, input, 변수 할당
+- 숫자, 문자열
+- list, set, tuple, dictionary
+- 자료형 별 메소드
+- 조건문(if, else, elif) : 홀짝 판별기
+- 반복문 (while, for) : 팩토리얼 구하기
+- 함수
 ## 2. Git 기초
 - Git이란?
 - GitHub이란?
