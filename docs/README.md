@@ -15,7 +15,6 @@
 - Git Bash Cli를 통한 버전 관리 시작하기
   - git clone
   - git remote
-  - git init
   - git add
   - git commit
   - git push
