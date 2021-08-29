@@ -1,3 +1,5 @@
 print("Hello!")
 print("Hi!")
 print("Annyeonghaseyo!")
+print("Bonjour!")
+print("안녕하세요")
