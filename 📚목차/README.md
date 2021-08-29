@@ -19,7 +19,6 @@
   - 레포지토리 생성하기
   - 파일 업로드하기
   - 파일 수정하기
-  - ~~브랜치 생성하기~~
 - Git Bash Cli를 통한 버전 관리 시작하기
   - Git Bash 설치하기
   - git 명령어 사용하기  
@@ -31,3 +30,5 @@
     - git log
 - [추가] Git & GitHub를 통한 코드 협업하기
   - Python 코드 협업 데모
+    - git pull
+    - git status
